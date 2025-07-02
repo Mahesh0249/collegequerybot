@@ -144,6 +144,27 @@
     @keyframes fadeIn {
       to { opacity: 1; }
     }
+    .suggested {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 16px 16px 0 16px;
+    }
+    .suggestion {
+      background: #f1f8e9;
+      color: #388e3c;
+      border: none;
+      border-radius: 16px;
+      padding: 8px 16px;
+      font-size: 0.98rem;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+      box-shadow: 0 1px 4px #0001;
+    }
+    .suggestion:hover {
+      background: #c8e6c9;
+      color: #1976d2;
+    }
   </style>
 </head>
 <body>
@@ -151,6 +172,11 @@
     <div class="header">
       <span class="icon">🎓</span>
       <h1>CampusQueryBot</h1>
+    </div>
+    <div class="suggested">
+      <button class="suggestion">When is the next hackathon?</button>
+      <button class="suggestion">Who is the NSS coordinator?</button>
+      <button class="suggestion">What is creatix club about?</button>
     </div>
     <div id="chat"></div>
     <form id="chatForm" autocomplete="off">
@@ -162,6 +188,7 @@
     const chat = document.getElementById('chat');
     const form = document.getElementById('chatForm');
     const questionInput = document.getElementById('question');
+    const suggestions = document.querySelectorAll('.suggestion');
 
     function addMessage(text, sender) {
       const msgDiv = document.createElement('div');
@@ -177,6 +204,13 @@
       chat.appendChild(msgDiv);
       chat.scrollTop = chat.scrollHeight;
     }
+
+    suggestions.forEach(btn => {
+      btn.addEventListener('click', () => {
+        questionInput.value = btn.textContent;
+        form.requestSubmit();
+      });
+    });
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
