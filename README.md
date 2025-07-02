@@ -80,7 +80,3 @@ A full-stack AI chatbot web app to help college students get answers about campu
 - Make sure your `.env` is not committed to GitHub.
 - If you get credential errors, check your `GEMINI_API_KEY` and `.env` setup.
 - To update FAQs, edit `faqs.json` and restart the server.
-
----
-
-Happy querying! 🎓🤖 
