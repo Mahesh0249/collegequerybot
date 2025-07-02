@@ -1,0 +1,63 @@
+<!-- public/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CampusQueryBot</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+    .container { max-width: 500px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 2px 8px #0001; }
+    h1 { text-align: center; }
+    #chat { min-height: 120px; margin-bottom: 16px; }
+    .bot, .user { margin: 8px 0; padding: 8px 12px; border-radius: 6px; }
+    .bot { background: #e3f2fd; }
+    .user { background: #c8e6c9; text-align: right; }
+    #question { width: 80%; padding: 8px; }
+    #send { padding: 8px 16px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>CampusQueryBot</h1>
+    <div id="chat"></div>
+    <form id="chatForm">
+      <input type="text" id="question" placeholder="Ask a campus question..." required />
+      <button type="submit" id="send">Send</button>
+    </form>
+  </div>
+  <script>
+    const chat = document.getElementById('chat');
+    const form = document.getElementById('chatForm');
+    const questionInput = document.getElementById('question');
+
+    function addMessage(text, sender) {
+      const div = document.createElement('div');
+      div.className = sender;
+      div.textContent = text;
+      chat.appendChild(div);
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const question = questionInput.value.trim();
+      if (!question) return;
+      addMessage(question, 'user');
+      questionInput.value = '';
+      addMessage('Thinking...', 'bot');
+      try {
+        const res = await fetch('/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ question })
+        });
+        const data = await res.json();
+        chat.lastChild.textContent = data.answer;
+      } catch (err) {
+        chat.lastChild.textContent = 'Error: Could not get response.';
+      }
+    });
+  </script>
+</body>
+</html> 
