@@ -19,7 +19,7 @@ A full-stack AI chatbot web app to help college students get answers about campu
 1. **Clone the repo**
 2. **Install dependencies:**
    ```
-   npm install express cors dotenv firebase-admin @google/generative-ai
+   npm install express cors dotenv firebase-admin @google/generative-ai@latest
    ```
 3. **Set up Firebase:**
    - Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
