@@ -1,0 +1,1622 @@
+[
+  {
+    "department": "ME",
+    "name": "DR. VENKATESWARA RAO PARUCHURI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. A.V. RATNA PRASAD",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. M. RAVICHAND",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. B. PANDURANGA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. V. MALLIKARJUNA",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. N.R.K. MURTHY",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. T.S. RAMAIAH CHOWDARY",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. SYED FAJAL RAHIMAN KHADRI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "V. RAMESH",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. G VENKATA RAMA SUBBARAO",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. LAKSHMI KESHAV",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. VINAY KUMAR GADDAM",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. CHAVALI RAMA VARA PRASAD",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. M. KANTA RAO",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. T. SUJATHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. P. KRISHNA PRASANNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "U.V. NARAYANA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "B. VENKAT RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "TEJ SAI MOTURU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "GORANTLA NIPUN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "GORINTLA YASWANTH KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. NARRA MALATHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "RAGHAVAPRASAD MANDAVA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "SATISH SAJJA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. YARLAGADDA SUMA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "SHAIK KHAJA SAMEER",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "HAROON ALI KHAN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "Dr. HANUMA KASAGANI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "RAGHU KIRAN A.S.N",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. CHARPE ANUJA UTTAMRAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "KATRAVATH ANJNANEYULA NAIK",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CIVIL",
+    "name": "DR. SRR TEJA PRATHIPATI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. D. RAJESWARA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. K. SRINIVAS",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. S. VASAVI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. K. SUVARNA VANI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. CHIRAMDASU RUPA",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. MOHAMMED ISMAIL B",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "S. RAVI KISHAN",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. ANURADHA GOVADA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. K. PRAVEEN KUMAR",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. P. RAMESH KUMAR",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. SOBHANA MUMMANENI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. K. GUNASEKARAN",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. SHAIK KHAJA MOHIDDIN",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. G. KRANTHI KUMAR",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. K.L. SAILAJA",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "K. S. VIJAYA LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "S. RAJESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "J.V.D. PRASAD",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "M. VANI PUJITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "A. RAGHU VEERA PRATAP",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "S. BABU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "D. SURESH BABU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "CH. MUKESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "NALLURI SUNNY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "CHANDRA RAGA MADHURI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. ANURADHA CHINTA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "VEMURI SANDEEP",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DEEPA VENNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "PRABU U",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. ASHUTOSH SATAPATHY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "AREMANDA ASRITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "MACHARAPU MADHAVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "REGULAGADDA SWAPANA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. KEERTHI KETINENI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "SRIKAKULAPU SHUBHAKAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "SIVA SAI RAM PRASAD K",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "JANDHYAM LAKSHMI ALEKHYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. MEENA T",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. BINDU MADHAVI TUMMALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "KATURI RAMA KRISHNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "RANI KARRE",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "LAVANYA VEMULAPALLI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. KRISHNA SANTOSH NAIDANA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. P. DHANAVANTHINI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. POTHURI SURENDRA VARMA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "GOGINENI INDRA SREE",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. PECHETTI SUKANYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. KROSURI LAKSHMI REVATHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "MALATHI JANAPATI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. MALARVIZHI N",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. S. ASHA VARMA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "SRIRAJARAJESWARI THOTA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "KURUBA CHANDRAKALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "KOTHAPALLI DIVYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "TAMMINENI MALLESWARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "VENKATA S P DENDUKURI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "KOMMARAJU RUPA KUSUMA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "DR. SRAVANI NALLURI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CSE",
+    "name": "KASUKURTHI PHANEENDRA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. DHULIPALLA VENKATA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. A. JHANSI RANI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. M. PADMAJA",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. GUMMADI LAKSHMI MADHUMATI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KETAVATH KUMAR NAIK",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. N. SATYANARAYANA MURTHY",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. A. VIJAYA SANKAR",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. PALLIKONDA SARAHSUHASINI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. GUNNAM SURYANARAYANA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. ANIRUDDH BAHADUR YADAV",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. SHAIK FAYAZ AHAMED",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. B. LAKSHMI SIREESHA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KRISHNA CHAITANYA NUNNA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "G. HEMA KUMAR",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. CH. RAGHAVENDRA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. SK. KHALEEL AHMED",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. K.V. PRASAD",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "R V H PRASAD",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. V. SARITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "V.B.K.L. ARUNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. P. SATYANARAYANA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. CH.N. RAGHURAM",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "Y. SARADA DEVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "B. ALEKHYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "VENKATA RATNA PRABHA K",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. A RAVI RAJA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "M. SUNITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KISHORKUMAR GUNDUGONTI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "SIVA REDDY VANGA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "KAMANI SNEHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "PREMCHAND KAMBHAM",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "BINDU PRIYA MAKALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "VENKATASUBBAIAH G",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. T. VENKATA SAINATH GUPTA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KONDAMURI SHRI RAMTEJ",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. JASTI SATEESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "SIVA NAGA MALLESWARI N",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. BALL MUKUND MANI TRIPATHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. V NARASIMHA NAYAK",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "MEENA NAGA RAJU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. TURIMERLA PRATAP",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "SRAVANTHI JALASUTRAM",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. S TEENA MRUDULA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "LAKSHMI SOWJANYA KONERU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "LOKIREDDY SARALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "BATTULA SURESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. PRATIKHYA RAUT",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. MOIRANGTHEM SANTOSHKUMAR SINGH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. CHIRANJIT GHOSH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KAMATAM B S SRI NAGINI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ECE",
+    "name": "DR. KOTA NAGESWARA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR.P.V.R.L. NARASIMHAM",
+    "designation": "PROFESSOR & DEAN – Examinations & Evaluation"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. A. RAMADEVI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "Dr. GUMMADI SRINIVASARAO",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "S.V.R.L. KUMARI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. B VENKATESWARA RAO",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. J. RAMESH",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. N. VAMSI KRISHNA",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. SUBHOJIT DAWN",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "P. VENKATESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. S N V S K CHAITANYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "T. SUNIL",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "M.L.N. VITAL",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "R. MADHUSUDHANA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "V. HARI VAMSI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. VEERA REDDY ADURU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "RAVINDRANADH CHOWDARY VANKINA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. K. DHANANJAY RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. VIMALA KUMARI J",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "SWARUPA RANI B",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "KONDISETTI LALITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. INDIRA D",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "BINDU VADLAMUDI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EEE",
+    "name": "DR. NAVEENKUMAR TADIKONDA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. G.N. SWAMY",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. C.S.S. ANUPAMA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. P. SRINIVAS",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "V. NAGA PRUDHVI RAJ",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "S. KALPANA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "CH. JAYA LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. A. SUMALATHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "P. SUSHMA CHOWDARY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. P. DURGA PRASADA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "K. VIJAYA LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. K. PRASANTHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "P. RAJESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "K. UMA MAHESWARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "G. JALALU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. MD. FIROSE SHAIK",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. M. SRINIVAS",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "KRANTHI MADALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. SWATHI NADIPINENI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. S. SRINIVASULU RAJU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DASARI ANUSHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "MRUDULA KILARU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "EIE",
+    "name": "DR. SANKALP PALIWAL",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. M. SUNEETHA",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. ANURADHA TADIPARTHI",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. S. SUHASINI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. K. SITA KUMARI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "Dr. Y. SANGEETHA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. KALYANI GADUPUDI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. FATHIMABI SHAIK",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. G. JAYA LAKSHMI",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. V. RADHESYAM",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. M. ASHOK KUMAR",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "G. GEETHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "P. RAMA DEVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "P. MADHAVI LATHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. M. RAMESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "K. PRANATHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "Dr. A. SRISAILA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "S. KRANTHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "T. LAKSHMI SUREKHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. Y. SANDEEP",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "K. MADHAVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "CHERUKURI NANDA KRISHNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "K CHAKRAVARTI YELAVARTI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. CHITTURI SATYA PAVAN KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "JYOTSNA GARIKIPATI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. JAYA PRAKASH SUNKAVALLI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "TANIMKI SUJITH KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. CHAVVA SUBBA REDDY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR. GARGI MADALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "K. RAJA SRAVANKUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "IT",
+    "name": "DR.VEERAMALLU SATYA SAHITHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. B. RAGHAVA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. N. RAVI KUMAR",
+    "designation": "PROFESSOR & HOD"
+  },
+  {
+    "department": "ME",
+    "name": "DR. CH. NAGA RAJU",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. V.BALA KRISHNA MURTHY",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. SANAKA SREENIVASA PRASAD",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "Dr. G. DILLI BABU",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "Dr. K. NAGA MALLESWARA RAO",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. MANGALAGIRI BALAJI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "P. SATEESH KUMAR REDDY",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. K. RAMANAIAH",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. C. MAHESH",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. K. SRINIVAS",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "V. SUDHEER KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR . M. SUMALATHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. K. PRAKASH BABU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. V. SRIDHAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. M. BALA CHENNAIAH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "M. RAJESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. V BAPI RAJU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. K. SIVA PRASAD",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. V.V. VENU MADHAV",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "A.N. PHANI DEEPTHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. B. SUPRAJA REDDY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. R.V. KIRAN KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. G. JAMUNA RANI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "GOPINADH CHOWDARY P",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "VEMULOORI VASU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "VENKATA PRASAD CHAPALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "KAPPA SUNDEEP",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "V. SAMBASIVA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DR. JOGENDRA PRASAD MALLADI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "DOOBA SIVA SANKAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ME",
+    "name": "KROVVIDI VENKATA NAGASAI SUDHEER KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. S. SRINIVASA RAO",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. C.L. MONICA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. CH. KAVITHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. M. SRI LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. M. DURGA BHAVANI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. V. RAJESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "TIRUKKOVALLURI MOUNIKA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. KRISHNA MURTHY POTLA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. JANNATUN ZIA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DR. KANNAMBA BASWANI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "GOLLA INDUSREE",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "CHEMISTRY",
+    "name": "DASARAJU MOHANA NAGA RAJESWARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. B. NEELAMBARAM",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. M. JAYARANJAN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "P. VENKATA RAMANA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR.B V V PADMAVATHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. D. SRIDEVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. NAGA MADHURI J",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. PAVANI G",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. VISHNU VANDANA DEVI V",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. NARENDRA KUMAR H",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. A. VENU GOPAL REDDY",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ENGLISH",
+    "name": "DR. SAMUEL BABU KOPPULA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. CH. BABY RANI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. K. HEMALATHA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. M. VENKATA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. J. SIVARAM PRASAD",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. P. SUNEETHA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. E.S.R. RAVI KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. M. VENKATESWARLU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "Capt. M.S.V.D. SUDARSAN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. M.V.D.N.S. MADHAVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. D. RAJANI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "R.L. NARAYANA CHARYULU",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. A. SANDHYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "N. DURGA PRASAD",
+    "designation": "TRAINER APTITUDE"
+  },
+  {
+    "department": "MATHS",
+    "name": "R. SANDHYA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. M. SIVAMALA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "S. SRIDEVI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "B V  RAVI KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. ALASAKANI KARTHIK",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MATHS",
+    "name": "DR. MADHULATHA DASARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. G. SRIDEVI",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. KOLLA NARENDRA",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. SK. FAKRUDDIN BABAVALI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "Dr. B.R. VENKATESWARA RAO",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. Y. NIRMAL RAJEEV",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. P. NARESH",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "CHILUKURI VIJAYA LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "PHYSICS",
+    "name": "DR. KSKR CHANDRA SEKHAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ARTS & COMMERCE",
+    "name": "DR. VEMULA NARASIMHA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "ARTS & COMMERCE",
+    "name": "DR. MADHULATHA DASARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ARTS & COMMERCE",
+    "name": "GOLLA INDUSREE",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ARTS & COMMERCE",
+    "name": "DASARAJU MOHANA NAGA RAJESWARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "ARTS & COMMERCE",
+    "name": "DR. SHAHNAZUDDIN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. A. SREERAM",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. POTLURI RAJASEKHARA MOULY",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. ALAPATI VITTALESWAR",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. K. RAGHUVEER",
+    "designation": "ASSOCIATE PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. N. SAILAJA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "RUCHI SHUKLA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. THOTA PRAMEELA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. DEVARAPALLI SUMAN",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "CHILLAKURI AKSHAY KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. SWARNIMA TIWARI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MBA",
+    "name": "DR. HARI BABU BATHINI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "DR. KOYA PURNACHANDRA RAO",
+    "designation": "PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "DR. K. ANJI REDDY",
+    "designation": "SENIOR ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "B. SRINIVAS",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "B. LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "DR. K.P. VENKATA KUMAR",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "J. HARI KRISHNA",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "DR. V. ESTHER JYOTHI",
+    "designation": "ASSISTANT PROFESSOR"
+  },
+  {
+    "department": "MCA",
+    "name": "M. PRASANNA LAKSHMI",
+    "designation": "ASSISTANT PROFESSOR"
+  }
+]

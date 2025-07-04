@@ -1,6 +1,6 @@
 # CampusQueryBot
 
-A full-stack AI chatbot web app to help college students get answers about campus events, roles, and deadlines.
+A full-stack AI chatbot web app to help students of Velagapudi Ramakrishna Siddhartha Engineering College (now Siddhartha Academy of Higher Education) get answers about campus events, roles, deadlines, and faculty information.
 
 ## Features
 - Ask questions like "When is the next hackathon?" or "Who is the NSS coordinator?"
@@ -9,6 +9,7 @@ A full-stack AI chatbot web app to help college students get answers about campu
 - Simple, modern web chat interface
 - **Suggested questions**: Clickable starter questions to help users begin
 - Responsive and visually appealing UI
+- **Faculty Info:** Automatically scrapes and updates faculty data from the [official directory](https://www.vrsiddhartha.ac.in/faculty-u-2/)
 
 ## Tech Stack
 - **Backend:** Node.js, Express
